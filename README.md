@@ -1,13 +1,13 @@
 # Eye-Exercise
 In this execise javascript is called upon the movement of the mouse causing the balls of two eyes to follow the cursor on the screen. This program originated from the MIT X-pro MERN full stack development program.
 
-To Run this Program
+<h4>To Run this Program</h4>
 In order to run this file, open the index.html file in a browser. Then move your mouse around the screen and the balls of the eyes should follow your mouse cursor.
 
-Future RoadMap
+<h4>Future RoadMap</h4>
 The eyes could be enhanced to be more realistic, and other facial features could be added. It could be fun to add alert messages that pop up when clicking on the eyes or other areas; such as, "Hey! That Hurts!"
 
-License Information
+<h4>License Information</h4>
 MIT License
 
 Copyright (c) 2021 JBrosman
